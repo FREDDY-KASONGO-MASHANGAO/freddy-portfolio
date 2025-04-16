@@ -1,0 +1,2 @@
+# freddy-portfolio
+CV 
